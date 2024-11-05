@@ -15,8 +15,9 @@ assignees: ''
     - 
 
 **2. Beskrivelse på datasettet:**
-- *Beskriv hva slags informasjon datasettet skal inneholde*
-
+-   *Beskriv hva slags informasjon datasettet skal inneholde*
+    _Eks. statistisk data, kartlag e.l._
+    
     -
 
 **3. Mulig eier / kilden til dataene:**
