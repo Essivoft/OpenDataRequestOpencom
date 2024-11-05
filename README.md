@@ -1,4 +1,4 @@
-# Data Request Portal for Opencom.no
+# Data Request for Opencom.no
 
 Dette GitHub-repositoriet brukes til å håndtere forespørsler om datasett som brukere ønsker å se på Stavanger kommunes åpne data-portal, [Opencom.no](https://opencom.no).
 
