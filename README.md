@@ -19,7 +19,8 @@ For å sende inn en forespørsel om datasett du ønsker tilgjengelig på Opencom
 
 ## 📖 Eksempel på forespørsel
 
-Du finner også et eksempel på en forespørsel under **Issues**-fanen i dette GitHub-repositoriet. Dette eksempelet kan gi deg en idé om hvordan en ferdig utfylt forespørsel ser ut.
+Du finner også et eksempel på en forespørsel under **Issues**-fanen i dette GitHub-repositoriet. _[Her er en direkte lenke](https://github.com/Essivoft/OpenDataRequestOpencom/issues/2)._ 
+Dette eksempelet kan gi deg en idé om hvordan en ferdig utfylt forespørsel ser ut.
 
 ---
 
@@ -62,7 +63,8 @@ To submit a request for a dataset you would like to see available on Opencom.no,
 
 ## 📖 Example Request
 
-You can also find an example request under the **Issues** tab in this GitHub repository. This example can provide you with an idea of how a completed request looks.
+You can also find an example request under the **Issues** tab in this GitHub repository. _[Or use the direct link](https://github.com/Essivoft/OpenDataRequestOpencom/issues/2)._
+This example can provide you with an idea of how a completed request looks.
 
 ---
 
